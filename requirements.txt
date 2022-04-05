@@ -1,0 +1,4 @@
+colorama
+string
+random
+pyfiglet
